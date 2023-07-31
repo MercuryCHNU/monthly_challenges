@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Megrim&display=swap');
+
+html{
+    font-family: 'Megrim', cursive;
+    font-weight: bolder;
+}
+body {
+    margin: 0;
+    background-image: url(https://steamuserimages-a.akamaihd.net/ugc/2011468907739191562/7C21CFC66EBDA43B26A77636D9A951878A3A12C9/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
